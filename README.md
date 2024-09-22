@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kharsiev Anatolii
+- 👋 Hi, I’m Kharsiev Anatolii 232 
 - 👀 I’m interested in coding
 - 📫 How to reach me abkharsiev@edu.hse.ru
 - ⚡ Fun fact: im an arm wrestler
