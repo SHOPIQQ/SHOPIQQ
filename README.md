@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kharsiev Anatolii
 - 👀 I’m interested in coding
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abkharsiev@edu.hse.ru
 - ⚡ Fun fact: im an arm wrestler
 
